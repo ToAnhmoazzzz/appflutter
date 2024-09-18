@@ -1,5 +1,5 @@
 ## App kinh doanh thức ăn nhanh
-### Giao diện app
+### Giao diện app 
 
 
 <img width="344" alt="Screen Shot 2024-09-18 at 14 47 51" src="https://github.com/user-attachments/assets/46849709-4845-45c4-bc3e-8f07e649c4ea">
